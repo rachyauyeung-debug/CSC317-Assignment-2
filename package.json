@@ -1,0 +1,25 @@
+{
+  "name": "csc317-assignment-2",
+  "version": "1.0.0",
+  "description": "This is an individual assignment. You may work with others to research how to do the assignment, but each person should code their own version and make their own submission.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ats-sfsu/CSC317-Assignment-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ats-sfsu/CSC317-Assignment-2/issues"
+  },
+  "homepage": "https://github.com/ats-sfsu/CSC317-Assignment-2#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
